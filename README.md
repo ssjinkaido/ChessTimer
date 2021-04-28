@@ -1,1 +1,1 @@
-# ChessTimer
+A simple chess timer so that you use it to simulate real time clock in chess match.
